@@ -1,6 +1,6 @@
 # Pokédex
 
-![preview](../pokedex/images/Preview.png)
+![preview](./images/Preview.png)
 
  A Functional Pokédex!
 
