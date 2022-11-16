@@ -1,6 +1,6 @@
 # Pokédex
 
-![preview](./.github/preview.png)
+![preview](../pokedex/images/Preview.png)
 
  A Functional Pokédex!
 
